@@ -1,0 +1,9 @@
+C:\Users\Johnatan\documents\visual studio 2010\Projects\Velha\VelhaTentativa_6\bin\Debug\VelhaTentativa_6.dll
+C:\Users\Johnatan\documents\visual studio 2010\Projects\Velha\VelhaTentativa_6\bin\Debug\VelhaTentativa_6.pdb
+C:\Users\Johnatan\documents\visual studio 2010\Projects\Velha\VelhaTentativa_6\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Johnatan\documents\visual studio 2010\Projects\Velha\VelhaTentativa_6\obj\Debug\VelhaTentativa_6.Form1.resources
+C:\Users\Johnatan\documents\visual studio 2010\Projects\Velha\VelhaTentativa_6\obj\Debug\VelhaTentativa_6.Properties.Resources.resources
+C:\Users\Johnatan\documents\visual studio 2010\Projects\Velha\VelhaTentativa_6\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Johnatan\documents\visual studio 2010\Projects\Velha\VelhaTentativa_6\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Johnatan\documents\visual studio 2010\Projects\Velha\VelhaTentativa_6\obj\Debug\VelhaTentativa_6.dll
+C:\Users\Johnatan\documents\visual studio 2010\Projects\Velha\VelhaTentativa_6\obj\Debug\VelhaTentativa_6.pdb
